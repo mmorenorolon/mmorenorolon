@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 
 
 <!--
 **mmorenorolon/mmorenorolon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +11,16 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: She/her
 - ⚡ Fun fact: ...
 -->
+
+I am Melannie Moreno Rolón. I am a current Master of Environmental Data Science student at UCSB. My career interests are centered around climate modeling and agriculture in the industry sector. Outside of my work, you can find me taking a nap. 
+
+## What I'm up to
+
+- Currently, I am working on my capstone project supported by the White Buffalo Land Trust, modeling regenerative grazing for farmers.
+
+  ## Education
+  - MEDS (expected June 2026) <- Master of Environmental Data Science | UCSB Bren School of Environmental Science & Resource Management
+  - BS (2023) <- Environmental Science | University of Puerto Rico - Rio Piedras Campus
