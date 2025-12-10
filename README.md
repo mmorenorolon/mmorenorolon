@@ -19,7 +19,7 @@ I am Melannie Moreno Rolón. I am a current Master of Environmental Data Science
 
 ## What I'm up to
 
-- Currently, I am working on my capstone project supported by the White Buffalo Land Trust, modeling regenerative grazing for farmers.
+- Currently, I am working on my capstone project supported by the Rincon Consulting, modeling a biological weaving tool for field biologists.
 
 ## Education
 - MEDS (expected June 2026) <- Master of Environmental Data Science | UCSB Bren School of Environmental Science & Resource Management
