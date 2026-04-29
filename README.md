@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Hi, I'm Melannie!👋 
 
 <!--
 **mmorenorolon/mmorenorolon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Melannie Moreno Rolón. I am a current Master of Environmental Data Science student at UCSB. My career interests are centered around climate modeling and agriculture in the industry sector. Outside of my work, you can find me taking a nap. 
+A Master of Environmental Data Science student at UCSB. My career interests are centered around community resilience, public infrastructure, climate research and agriculture.
 
-## What I'm up to
-
-- Currently, I am working on my capstone project supported by Rincon Consulting, Inc. to modeli biological data weaving tool for field biologists.
+Currently working on my capstone project supported by Rincon Consulting, Inc. to build a biological data dashboard for biologists. Previously, I worked as an Environmental Specialist at an environmental consulting firm, expediting project permission approvals and ensuring regulatory compliance. Before that, I was a Research Intern at Portland State University at the Center for Climate and Atmospheric Research Center lab.
 
 ## Education
 - MEDS (expected June 2026) <- Master of Environmental Data Science | UCSB Bren School of Environmental Science & Resource Management
-- BS (2023) <- Environmental Science | University of Puerto Rico - Rio Piedras Campus
+- BS (2023) <- Bachelors of Environmental Science | University of Puerto Rico - Rio Piedras Campus
