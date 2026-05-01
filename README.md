@@ -1,4 +1,4 @@
-## Hi, I'm Melannie!👋 
+## &iexcl;Saludos! :herb::shell: 
 
 <!--
 **mmorenorolon/mmorenorolon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A Master of Environmental Data Science student at UCSB. My career interests are centered around community resilience, public infrastructure, climate research and agriculture.
+I'm Melannie, a Master of Environmental Data Science student at UCSB. My work spans data visualization, geospatial analysis, and environmental modeling, with an emphasis on actionable insights for industry and community impact. My career interests are centered around community resilience, public infrastructure, climate research and agriculture.
 
-Currently working on my capstone project supported by Rincon Consulting, Inc. to build a biological data dashboard for biologists. Previously, I worked as an Environmental Specialist at an environmental consulting firm, expediting project permission approvals and ensuring regulatory compliance. Before that, I was a Research Intern at Portland State University at the Center for Climate and Atmospheric Research Center lab.
+Currently working on my capstone project supported by Rincon Consulting, Inc. to build a biological data dashboard that supports biological assessments. Previously, I worked as an Environmental Specialist at an environmental consulting firm, expediting project permission approvals and ensuring regulatory compliance. Before that, I was a Research Intern at Portland State University at the Center for Climate and Atmospheric Research Center lab.
 
 ## Education
 - MEDS (expected June 2026) <- Master of Environmental Data Science | UCSB Bren School of Environmental Science & Resource Management
